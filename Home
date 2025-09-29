@@ -1,0 +1,28 @@
+</html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>KDOT Project Admin</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <aside class="sidebar">
+    <!-- left nav like your mockup -->
+  </aside>
+
+  <main class="content">
+    <header class="topbar">
+      <h1>Project Admin</h1>
+      <input type="search" placeholder="Search here" />
+      <div class="user">Micheala Everitt</div>
+    </header>
+
+    <section class="grid">
+      <div class="card"> <!-- Guidance & Events --> </div>
+      <div class="card"> <!-- Active Projects table --> </div>
+    </section>
+  </main>
+
+  <script src="js/app.js" defer></script>
+</body>
+</html>
